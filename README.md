@@ -1,2 +1,0 @@
-# msuproject
-copepath
